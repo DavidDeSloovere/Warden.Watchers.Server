@@ -17,7 +17,7 @@
 
 Available as a **[NuGet package](https://www.nuget.org/packages/Warden.Watchers.Server)**. 
 ```
-Install-Package Warden.Watchers.Server
+dotnet add package Warden.Watchers.Server
 ```
 
 ### Configuration:
